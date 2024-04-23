@@ -1,0 +1,62 @@
+{
+  "Ramp": {
+    "height_bottom": 180.0,
+    "height_top": 180.0,
+    "width_bottom": 55.0,
+    "width_top": 55.0,
+    "material": "Colour_Blue",
+    "is_timer_enabled": false,
+    "timer_interval": 100,
+    "ramp_type": "flat",
+    "name": "RampS001",
+    "image": "",
+    "image_alignment": "wrap",
+    "image_walls": true,
+    "left_wall_height": 0.0,
+    "right_wall_height": 150.0,
+    "left_wall_height_visible": 0.0,
+    "right_wall_height_visible": 50.0,
+    "hit_event": true,
+    "threshold": 2.0,
+    "elasticity": 0.0,
+    "friction": 0.0,
+    "scatter": 0.0,
+    "is_collidable": true,
+    "is_visible": true,
+    "depth_bias": 0.0,
+    "wire_diameter": 7.0,
+    "wire_distance_x": 39.0,
+    "wire_distance_y": 88.0,
+    "is_reflection_enabled": false,
+    "physics_material": "zCol_MetalRamp",
+    "overwrite_physics": false,
+    "drag_points": [
+      {
+        "x": 1031.5,
+        "y": 270.0,
+        "z": 0.0,
+        "smooth": true,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
+      },
+      {
+        "x": 1031.5,
+        "y": 125.0,
+        "z": 0.0,
+        "smooth": true,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
+      }
+    ]
+  }
+}

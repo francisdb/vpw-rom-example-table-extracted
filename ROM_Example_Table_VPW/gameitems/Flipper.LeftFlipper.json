@@ -1,0 +1,42 @@
+{
+  "Flipper": {
+    "center": {
+      "x": 405.96786,
+      "y": 1833.0863
+    },
+    "base_radius": 20.0,
+    "end_radius": 12.0,
+    "flipper_radius_max": 115.0,
+    "return_": 0.09,
+    "start_angle": 121.0,
+    "end_angle": 70.0,
+    "override_physics": 0,
+    "mass": 1.0,
+    "is_timer_enabled": false,
+    "timer_interval": 100,
+    "surface": "",
+    "material": "Colour_Yellow",
+    "name": "LeftFlipper",
+    "rubber_material": "Colour_White",
+    "rubber_thickness_int": 5,
+    "rubber_thickness": 5.0,
+    "rubber_height_int": 6,
+    "rubber_height": 6.0,
+    "rubber_width_int": 20,
+    "rubber_width": 20.0,
+    "strength": 2750.0,
+    "elasticity": 0.88,
+    "elasticity_falloff": 0.15,
+    "friction": 0.9,
+    "ramp_up": 2.0,
+    "scatter": 0.0,
+    "torque_damping": 0.275,
+    "torque_damping_angle": 6.0,
+    "flipper_radius_min": 0.0,
+    "is_visible": true,
+    "is_enabled": true,
+    "height": 35.0,
+    "image": "",
+    "is_reflection_enabled": true
+  }
+}

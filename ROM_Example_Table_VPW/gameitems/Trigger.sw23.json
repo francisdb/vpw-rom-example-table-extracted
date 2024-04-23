@@ -1,0 +1,78 @@
+{
+  "Trigger": {
+    "center": {
+      "x": 673.94525,
+      "y": 236.0829
+    },
+    "radius": 28.0,
+    "rotation": 8.0,
+    "wire_thickness": 0.0,
+    "scale_x": 0.7,
+    "scale_y": 0.7,
+    "is_timer_enabled": false,
+    "timer_interval": 100,
+    "material": "Colour_Yellow",
+    "surface": "",
+    "is_visible": true,
+    "is_enabled": true,
+    "hit_height": 40.0,
+    "name": "sw23",
+    "shape": "wire_d",
+    "anim_speed": 1.0,
+    "is_reflection_enabled": true,
+    "drag_points": [
+      {
+        "x": 652.8716,
+        "y": 202.26335,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
+      },
+      {
+        "x": 645.0925,
+        "y": 255.23965,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
+      },
+      {
+        "x": 692.36304,
+        "y": 273.6964,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
+      },
+      {
+        "x": 699.73553,
+        "y": 221.79839,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
+      }
+    ]
+  }
+}

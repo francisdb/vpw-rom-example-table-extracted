@@ -1,0 +1,81 @@
+{
+  "Flasher": {
+    "height": 0.1,
+    "pos_x": 675.0601,
+    "pos_y": 469.18268,
+    "rot_x": 0.0,
+    "rot_y": 0.0,
+    "rot_z": 0.0,
+    "color": "#32c832",
+    "is_timer_enabled": false,
+    "timer_interval": 100,
+    "name": "bumpershadow3",
+    "image_a": "Flbumpershadow",
+    "image_b": "",
+    "alpha": 80,
+    "modulate_vs_add": 0.9,
+    "is_visible": true,
+    "add_blend": false,
+    "is_dmd": false,
+    "display_texture": true,
+    "depth_bias": 1000.0,
+    "image_alignment": "wrap",
+    "filter": "overlay",
+    "filter_amount": 100,
+    "light_map": "",
+    "drag_points": [
+      {
+        "x": 321.55524,
+        "y": 290.72748,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
+      },
+      {
+        "x": 321.55524,
+        "y": 428.5871,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
+      },
+      {
+        "x": 459.4153,
+        "y": 428.5871,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
+      },
+      {
+        "x": 459.4153,
+        "y": 290.72748,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
+      }
+    ]
+  }
+}

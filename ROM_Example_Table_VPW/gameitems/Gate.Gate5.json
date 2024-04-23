@@ -1,0 +1,30 @@
+{
+  "Gate": {
+    "center": {
+      "x": 79.86282,
+      "y": 387.92776
+    },
+    "length": 75.0,
+    "height": 58.0,
+    "rotation": 220.0,
+    "material": "Colour_Yellow",
+    "is_timer_enabled": false,
+    "show_bracket": true,
+    "is_collidable": true,
+    "timer_interval": 100,
+    "imgf": null,
+    "imgb": null,
+    "surface": "RampG3",
+    "elasticity": 0.3,
+    "angle_max": 1.5707964,
+    "angle_min": 0.0,
+    "friction": 0.02,
+    "damping": 0.96,
+    "gravity_factor": 0.25,
+    "is_visible": true,
+    "name": "Gate5",
+    "two_way": true,
+    "is_reflection_enabled": true,
+    "gate_type": "wire_rectangle"
+  }
+}

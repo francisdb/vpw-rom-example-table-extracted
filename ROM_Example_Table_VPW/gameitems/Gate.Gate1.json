@@ -1,0 +1,30 @@
+{
+  "Gate": {
+    "center": {
+      "x": 735.9913,
+      "y": 78.35449
+    },
+    "length": 150.0,
+    "height": 62.0,
+    "rotation": -134.0,
+    "material": "Colour_Yellow",
+    "is_timer_enabled": false,
+    "show_bracket": true,
+    "is_collidable": true,
+    "timer_interval": 100,
+    "imgf": null,
+    "imgb": null,
+    "surface": "",
+    "elasticity": 0.2,
+    "angle_max": 1.5707964,
+    "angle_min": 0.0,
+    "friction": 0.4,
+    "damping": 0.985,
+    "gravity_factor": 0.25,
+    "is_visible": true,
+    "name": "Gate1",
+    "two_way": false,
+    "is_reflection_enabled": true,
+    "gate_type": "wire_w"
+  }
+}

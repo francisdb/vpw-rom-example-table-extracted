@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -94.134995,
+      "y": 2013.2517
+    },
+    "is_timer_enabled": false,
+    "timer_interval": 33,
+    "name": "BumperTimer",
+    "backglass": false
+  }
+}

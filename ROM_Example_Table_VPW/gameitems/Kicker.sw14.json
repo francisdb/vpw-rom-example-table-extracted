@@ -1,0 +1,22 @@
+{
+  "Kicker": {
+    "center": {
+      "x": 892.9057,
+      "y": 1932.4188
+    },
+    "radius": 25.0,
+    "is_timer_enabled": true,
+    "timer_interval": 100,
+    "material": "",
+    "surface": "",
+    "is_enabled": true,
+    "name": "sw14",
+    "kicker_type": "invisible",
+    "scatter": 0.0,
+    "hit_accuracy": 0.3,
+    "hit_height": 40.0,
+    "orientation": 0.0,
+    "fall_through": false,
+    "legacy_mode": true
+  }
+}

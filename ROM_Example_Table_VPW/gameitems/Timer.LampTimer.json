@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -133.71306,
+      "y": 2133.86
+    },
+    "is_timer_enabled": false,
+    "timer_interval": -1,
+    "name": "LampTimer",
+    "backglass": false
+  }
+}

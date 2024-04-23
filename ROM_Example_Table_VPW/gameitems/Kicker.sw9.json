@@ -1,0 +1,22 @@
+{
+  "Kicker": {
+    "center": {
+      "x": 619.8402,
+      "y": 2111.537
+    },
+    "radius": 25.0,
+    "is_timer_enabled": false,
+    "timer_interval": 3000,
+    "material": "",
+    "surface": "",
+    "is_enabled": true,
+    "name": "sw9",
+    "kicker_type": "invisible",
+    "scatter": 0.0,
+    "hit_accuracy": 0.3,
+    "hit_height": 40.0,
+    "orientation": 0.0,
+    "fall_through": false,
+    "legacy_mode": true
+  }
+}
