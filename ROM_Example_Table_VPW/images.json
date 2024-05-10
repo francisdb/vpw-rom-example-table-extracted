@@ -2,2101 +2,938 @@
   {
     "name": "ball_HDR",
     "path": "C:\\Visual Pinball\\_WIP\\guns and roses\\ball_HDR.hdr",
-    "width": 256,
-    "height": 256,
-    "alpha_test_value": -1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\guns and roses\\ball_HDR.hdr",
-      "name": "ball_HDR"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Scratches",
     "path": "C:\\Visual Pinball\\_WIP\\guns and roses\\Scratches.png",
-    "width": 100,
-    "height": 100,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\guns and roses\\Scratches.png",
-      "name": "Scratches"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "shinyenvironment3blur4",
     "path": "C:\\Visual Pinball\\_WIP\\guns and roses\\shinyenvironment3blur4.hdr",
-    "width": 1024,
-    "height": 512,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\guns and roses\\shinyenvironment3blur4.hdr",
-      "name": "shinyenvironment3blur4"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "pf_vpw_bp",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\vpw_expf_bp_small.webp",
-    "width": 1024,
-    "height": 2048,
     "alpha_test_value": 1.0,
     "is_opaque": false,
     "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\vpw_expf_bp_small.webp",
-      "name": "vpw_expf_bp_small"
-    },
-    "bits": false
+    "jpeg_name": "vpw_expf_bp_small"
   },
   {
     "name": "dome2baseblue",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2baseblue.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2baseblue.png",
-      "name": "dome2baseblue"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "dome2basegreen",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2basegreen.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2basegreen.png",
-      "name": "dome2basegreen"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "dome2baseorange",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2baseorange.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2baseorange.png",
-      "name": "dome2baseorange"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "dome2basepurple",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2basepurple.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2basepurple.png",
-      "name": "dome2basepurple"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "dome2basered",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2basered.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2basered.png",
-      "name": "dome2basered"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "dome2basewhite",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2basewhite.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2basewhite.png",
-      "name": "dome2basewhite"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "dome2baseyellow",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2baseyellow.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2baseyellow.png",
-      "name": "dome2baseyellow"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "dome2litblue",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2litblue.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2litblue.png",
-      "name": "dome2litblue"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "dome2litgreen",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2litgreen.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2litgreen.png",
-      "name": "dome2litgreen"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "dome2litorange",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2litorange.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2litorange.png",
-      "name": "dome2litorange"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "dome2litpurple",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2litpurple.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2litpurple.png",
-      "name": "dome2litpurple"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "dome2litred",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2litred.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2litred.png",
-      "name": "dome2litred"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "dome2litwhite",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2litwhite.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2litwhite.png",
-      "name": "dome2litwhite"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "dome2lityellow",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2lityellow.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\dome2lityellow.png",
-      "name": "dome2lityellow"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeearbaseblue",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearbaseblue.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearbaseblue.png",
-      "name": "domeearbaseblue"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeearbasegreen",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearbasegreen.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearbasegreen.png",
-      "name": "domeearbasegreen"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeearbaseorange",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearbaseorange.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearbaseorange.png",
-      "name": "domeearbaseorange"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeearbasepurple",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearbasepurple.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearbasepurple.png",
-      "name": "domeearbasepurple"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeearbasered",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearbasered.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearbasered.png",
-      "name": "domeearbasered"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeearbasewhite",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearbasewhite.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearbasewhite.png",
-      "name": "domeearbasewhite"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeearbaseyellow",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearbaseyellow.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearbaseyellow.png",
-      "name": "domeearbaseyellow"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeearlitblue",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearlitblue.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearlitblue.png",
-      "name": "domeearlitblue"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeearlitgreen",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearlitgreen.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearlitgreen.png",
-      "name": "domeearlitgreen"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeearlitorange",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearlitorange.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearlitorange.png",
-      "name": "domeearlitorange"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeearlitpurple",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearlitpurple.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearlitpurple.png",
-      "name": "domeearlitpurple"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeearlitred",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearlitred.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearlitred.png",
-      "name": "domeearlitred"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeearlitwhite",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearlitwhite.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearlitwhite.png",
-      "name": "domeearlitwhite"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeearlityellow",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearlityellow.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeearlityellow.png",
-      "name": "domeearlityellow"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "domeflashwhite",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeflashwhite.jpg",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\domeflashwhite.jpg",
-      "name": "domeflashwhite"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "flasherbloomCenter",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\flasherbloomCenter.png",
-    "width": 1826,
-    "height": 4096,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\flasherbloomCenter.png",
-      "name": "flasherbloomCenter"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "flasherbloomCenterLeft",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\flasherbloomCenterLeft.png",
-    "width": 1826,
-    "height": 4096,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\flasherbloomCenterLeft.png",
-      "name": "flasherbloomCenterLeft"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "flasherbloomCenterRight",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\flasherbloomCenterRight.png",
-    "width": 1826,
-    "height": 4096,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\flasherbloomCenterRight.png",
-      "name": "flasherbloomCenterRight"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "flasherbloomLowerLeft",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\flasherbloomLowerLeft.png",
-    "width": 1826,
-    "height": 4096,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\flasherbloomLowerLeft.png",
-      "name": "flasherbloomLowerLeft"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "flasherbloomLowerRight",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\flasherbloomLowerRight.png",
-    "width": 1826,
-    "height": 4096,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\flasherbloomLowerRight.png",
-      "name": "flasherbloomLowerRight"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "flasherbloomUpperLeft",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\flasherbloomUpperLeft.png",
-    "width": 1826,
-    "height": 4096,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\flasherbloomUpperLeft.png",
-      "name": "flasherbloomUpperLeft"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "flasherbloomUpperRight",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\flasherbloomUpperRight.png",
-    "width": 1826,
-    "height": 4096,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\flasherbloomUpperRight.png",
-      "name": "flasherbloomUpperRight"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Flbumperbase",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Flbumperbase.png",
-    "width": 512,
-    "height": 512,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Flbumperbase.png",
-      "name": "Flbumperbase"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Flbumperbulb",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Flbumperbulb.png",
-    "width": 256,
-    "height": 512,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Flbumperbulb.png",
-      "name": "Flbumperbulb"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Flbumperdiskred",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Flbumperdiskred.png",
-    "width": 512,
-    "height": 512,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Flbumperdiskred.png",
-      "name": "Flbumperdiskred"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Flbumpershadow",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Flbumpershadow.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Flbumpershadow.png",
-      "name": "Flbumpershadow"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Flbumpertop",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Flbumpertop.png",
-    "width": 1024,
-    "height": 512,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Flbumpertop.png",
-      "name": "Flbumpertop"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Flhighlight",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Flhighlight.jpg",
-    "width": 400,
-    "height": 400,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Flhighlight.jpg",
-      "name": "Flhighlight"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_Arrow1off4_180",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Arrow1off4_180.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Arrow1off4_180.png",
-      "name": "Insert_Arrow1off4_180"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_Arrow1on180_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Arrow1on180_.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Arrow1on180_.png",
-      "name": "Insert_Arrow1on180_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_Arrow2off_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Arrow2off_.png",
-    "width": 128,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Arrow2off_.png",
-      "name": "Insert_Arrow2off_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_Arrow2offb",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Arrow2offb.png",
-    "width": 128,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Arrow2offb.png",
-      "name": "Insert_Arrow2offb"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_Arrow2on_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Arrow2on_.png",
-    "width": 128,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Arrow2on_.png",
-      "name": "Insert_Arrow2on_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_Bullet_OFF_sm4",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Bullet_OFF_sm4.png",
-    "width": 512,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Bullet_OFF_sm4.png",
-      "name": "Insert_Bullet_OFF_sm4"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_Bullet_ON_sm4",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Bullet_ON_sm4.png",
-    "width": 512,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Bullet_ON_sm4.png",
-      "name": "Insert_Bullet_ON_sm4"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_Diamond On",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Diamond On.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Diamond On.png",
-      "name": "Insert_Diamond On"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_DiamondOff",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_DiamondOff.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_DiamondOff.png",
-      "name": "Insert_DiamondOff"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_lightninglargeoff2",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_lightninglargeoff2.png",
-    "width": 1024,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_lightninglargeoff2.png",
-      "name": "Insert_lightninglargeoff2"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_lightninglargeon",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_lightninglargeon.png",
-    "width": 1024,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_lightninglargeon.png",
-      "name": "Insert_lightninglargeon"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_lightningsmalloff3",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_lightningsmalloff3.png",
-    "width": 300,
-    "height": 150,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_lightningsmalloff3.png",
-      "name": "Insert_lightningsmalloff3"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_lightningsmallon4",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_lightningsmallon4.png",
-    "width": 300,
-    "height": 150,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_lightningsmallon4.png",
-      "name": "Insert_lightningsmallon4"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_Rec_Star_OFF_ap",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Rec_Star_OFF_ap.png",
-    "width": 512,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Rec_Star_OFF_ap.png",
-      "name": "Insert_Rec_Star_OFF_ap"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_Rec_Star_OFF_sm",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Rec_Star_OFF_sm.png",
-    "width": 512,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Rec_Star_OFF_sm.png",
-      "name": "Insert_Rec_Star_OFF_sm"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_Rec_Star_ON_ap",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Rec_Star_ON_ap.png",
-    "width": 512,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Rec_Star_ON_ap.png",
-      "name": "Insert_Rec_Star_ON_ap"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_Rec_Star_ON_sm",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Rec_Star_ON_sm.png",
-    "width": 512,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Rec_Star_ON_sm.png",
-      "name": "Insert_Rec_Star_ON_sm"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_rect1off",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_rect1off.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_rect1off.png",
-      "name": "Insert_rect1off"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_rect1offb",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_rect1offb.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_rect1offb.png",
-      "name": "Insert_rect1offb"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_rect1onhorizontal",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_rect1onhorizontal.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_rect1onhorizontal.png",
-      "name": "Insert_rect1onhorizontal"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_rect1onhorizontalb",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_rect1onhorizontalb.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_rect1onhorizontalb.png",
-      "name": "Insert_rect1onhorizontalb"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_rect1onvertical",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_rect1onvertical.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_rect1onvertical.png",
-      "name": "Insert_rect1onvertical"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_RectangleDDOff",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RectangleDDOff.png",
-    "width": 512,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RectangleDDOff.png",
-      "name": "Insert_RectangleDDOff"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_RectangleDDOn",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RectangleDDOn.png",
-    "width": 512,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RectangleDDOn.png",
-      "name": "Insert_RectangleDDOn"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_round1off3d_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1off3d_.png",
-    "width": 150,
-    "height": 150,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1off3d_.png",
-      "name": "Insert_round1off3d_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_round1off5_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1off5_.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1off5_.png",
-      "name": "Insert_round1off5_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_round1off5b",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1off5b.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1off5b.png",
-      "name": "Insert_round1off5b"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_round1off5c",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1off5c.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1off5c.png",
-      "name": "Insert_round1off5c"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_round1off5d",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1off5d.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1off5d.png",
-      "name": "Insert_round1off5d"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_round1off5special_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1off5special_.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1off5special_.png",
-      "name": "Insert_round1off5special_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_round1on_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1on_.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1on_.png",
-      "name": "Insert_round1on_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_round1onb",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1onb.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round1onb.png",
-      "name": "Insert_round1onb"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_round2off_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round2off_.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round2off_.png",
-      "name": "Insert_round2off_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_round2offb",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round2offb.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round2offb.png",
-      "name": "Insert_round2offb"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_round2on_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round2on_.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round2on_.png",
-      "name": "Insert_round2on_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_round2onb",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round2onb.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round2onb.png",
-      "name": "Insert_round2onb"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_round3off_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round3off_.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round3off_.png",
-      "name": "Insert_round3off_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_round3on_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round3on_.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_round3on_.png",
-      "name": "Insert_round3on_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_RoundOff",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundOff.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundOff.png",
-      "name": "Insert_RoundOff"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_RoundOn",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundOn.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundOn.png",
-      "name": "Insert_RoundOn"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_RoundOnNew",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundOnNew.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundOnNew.png",
-      "name": "Insert_RoundOnNew"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_RoundPinsOff",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundPinsOff.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundPinsOff.png",
-      "name": "Insert_RoundPinsOff"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_RoundPinsOn",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundPinsOn.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundPinsOn.png",
-      "name": "Insert_RoundPinsOn"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_RoundSmoothOff",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundSmoothOff.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundSmoothOff.png",
-      "name": "Insert_RoundSmoothOff"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_RoundSmoothOn",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundSmoothOn.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundSmoothOn.png",
-      "name": "Insert_RoundSmoothOn"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_RoundSmoothPinsOff",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundSmoothPinsOff.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundSmoothPinsOff.png",
-      "name": "Insert_RoundSmoothPinsOff"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_RoundSmoothPinsOn",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundSmoothPinsOn.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_RoundSmoothPinsOn.png",
-      "name": "Insert_RoundSmoothPinsOn"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_square1off3b",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_square1off3b.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_square1off3b.png",
-      "name": "Insert_square1off3b"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_square1on_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_square1on_.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_square1on_.png",
-      "name": "Insert_square1on_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_square5off",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_square5off.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_square5off.png",
-      "name": "Insert_square5off"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_square5on",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_square5on.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_square5on.png",
-      "name": "Insert_square5on"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_triangle_equi_off_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle_equi_off_.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle_equi_off_.png",
-      "name": "Insert_triangle_equi_off_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_triangle_equi_on1",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle_equi_on1.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle_equi_on1.png",
-      "name": "Insert_triangle_equi_on1"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_triangle_equi_on2",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle_equi_on2.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle_equi_on2.png",
-      "name": "Insert_triangle_equi_on2"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_Triangle1off",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Triangle1off.png",
-    "width": 256,
-    "height": 128,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Triangle1off.png",
-      "name": "Insert_Triangle1off"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_triangle1off2",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle1off2.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle1off2.png",
-      "name": "Insert_triangle1off2"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_Triangle1on",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Triangle1on.png",
-    "width": 256,
-    "height": 128,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_Triangle1on.png",
-      "name": "Insert_Triangle1on"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_triangle1on1_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle1on1_.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle1on1_.png",
-      "name": "Insert_triangle1on1_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_triangle1on2_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle1on2_.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle1on2_.png",
-      "name": "Insert_triangle1on2_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_triangle1on4",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle1on4.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle1on4.png",
-      "name": "Insert_triangle1on4"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_triangle1on5",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle1on5.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle1on5.png",
-      "name": "Insert_triangle1on5"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_triangle2offb2",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle2offb2.png",
-    "width": 256,
-    "height": 128,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle2offb2.png",
-      "name": "Insert_triangle2offb2"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_triangle2onb",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle2onb.png",
-    "width": 256,
-    "height": 128,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle2onb.png",
-      "name": "Insert_triangle2onb"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_triangle3off_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle3off_.png",
-    "width": 256,
-    "height": 128,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle3off_.png",
-      "name": "Insert_triangle3off_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_triangle3on_",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle3on_.png",
-    "width": 256,
-    "height": 128,
     "alpha_test_value": 1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_triangle3on_.png",
-      "name": "Insert_triangle3on_"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_TriangleLOff",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_TriangleLOff.png",
-    "width": 256,
-    "height": 128,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_TriangleLOff.png",
-      "name": "Insert_TriangleLOff"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_TriangleLOn",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_TriangleLOn.png",
-    "width": 256,
-    "height": 128,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_TriangleLOn.png",
-      "name": "Insert_TriangleLOn"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_TriangleOff",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_TriangleOff.png",
-    "width": 256,
-    "height": 128,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_TriangleOff.png",
-      "name": "Insert_TriangleOff"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Insert_TriangleOn",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_TriangleOn.png",
-    "width": 256,
-    "height": 128,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Insert_TriangleOn.png",
-      "name": "Insert_TriangleOn"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "kruiskopcolor",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\kruiskopcolor.jpg",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\kruiskopcolor.jpg",
-      "name": "kruiskopcolor"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ronddomebaseblue",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomebaseblue.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomebaseblue.png",
-      "name": "ronddomebaseblue"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ronddomebasegreen",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomebasegreen.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomebasegreen.png",
-      "name": "ronddomebasegreen"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ronddomebaseorange",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomebaseorange.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomebaseorange.png",
-      "name": "ronddomebaseorange"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ronddomebasepurple",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomebasepurple.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomebasepurple.png",
-      "name": "ronddomebasepurple"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ronddomebasered",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomebasered.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomebasered.png",
-      "name": "ronddomebasered"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ronddomebasewhite",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomebasewhite.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomebasewhite.png",
-      "name": "ronddomebasewhite"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ronddomebaseyellow",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomebaseyellow.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomebaseyellow.png",
-      "name": "ronddomebaseyellow"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ronddomelitblue",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomelitblue.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomelitblue.png",
-      "name": "ronddomelitblue"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ronddomelitgreen",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomelitgreen.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomelitgreen.png",
-      "name": "ronddomelitgreen"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ronddomelitorange",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomelitorange.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomelitorange.png",
-      "name": "ronddomelitorange"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ronddomelitpurple",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomelitpurple.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomelitpurple.png",
-      "name": "ronddomelitpurple"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ronddomelitred",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomelitred.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomelitred.png",
-      "name": "ronddomelitred"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ronddomelitwhite",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomelitwhite.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomelitwhite.png",
-      "name": "ronddomelitwhite"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ronddomelityellow",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomelityellow.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\ronddomelityellow.png",
-      "name": "ronddomelityellow"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "Sideblades_Black",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Sideblades_Black.png",
-    "width": 2048,
-    "height": 2048,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\Sideblades_Black.png",
-      "name": "Sideblades_Black"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "sidewood._h",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\sidewood._h.png",
-    "width": 1024,
-    "height": 44,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\sidewood._h.png",
-      "name": "sidewood._h"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "sidewood",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\sidewood.png",
-    "width": 44,
-    "height": 1024,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\sidewood.png",
-      "name": "sidewood"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "sidewood_black",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\sidewood_black.png",
-    "width": 50,
-    "height": 1024,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\sidewood_black.png",
-      "name": "sidewood_black"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "sidewood_h_black",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\sidewood_h_black.png",
-    "width": 1024,
-    "height": 50,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\sidewood_h_black.png",
-      "name": "sidewood_h_black"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "targetflasher",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\targetflasher.jpg",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\Exported Images\\targetflasher.jpg",
-      "name": "targetflasher"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ballshadow",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\ballshadow.png",
-    "width": 249,
-    "height": 252,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\ballshadow.png",
-      "name": "ballshadow"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "flippers_shadow",
     "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\flippers_shadow.png",
-    "width": 256,
-    "height": 512,
     "alpha_test_value": 1.0,
     "is_opaque": false,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Visual Pinball\\_WIP\\_VPW Template Table\\flippers_shadow.png",
-      "name": "flippers_shadow"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "colorgradelut256x16-10",
     "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-10.jpg",
-    "width": 256,
-    "height": 16,
-    "alpha_test_value": -1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-10.jpg",
-      "name": "colorgradelut256x16-10"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "colorgradelut256x16-20",
     "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-20.jpg",
-    "width": 256,
-    "height": 16,
-    "alpha_test_value": -1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-20.jpg",
-      "name": "colorgradelut256x16-20"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "colorgradelut256x16-30",
     "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-30.jpg",
-    "width": 256,
-    "height": 16,
-    "alpha_test_value": -1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-30.jpg",
-      "name": "colorgradelut256x16-30"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "colorgradelut256x16-40",
     "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-40.jpg",
-    "width": 256,
-    "height": 16,
-    "alpha_test_value": -1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-40.jpg",
-      "name": "colorgradelut256x16-40"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "colorgradelut256x16-50",
     "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-50.jpg",
-    "width": 256,
-    "height": 16,
-    "alpha_test_value": -1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-50.jpg",
-      "name": "colorgradelut256x16-50"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "colorgradelut256x16-60",
     "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-60.jpg",
-    "width": 256,
-    "height": 16,
-    "alpha_test_value": -1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-60.jpg",
-      "name": "colorgradelut256x16-60"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "colorgradelut256x16-70",
     "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-70.jpg",
-    "width": 256,
-    "height": 16,
-    "alpha_test_value": -1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-70.jpg",
-      "name": "colorgradelut256x16-70"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "colorgradelut256x16-80",
     "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-80.jpg",
-    "width": 256,
-    "height": 16,
-    "alpha_test_value": -1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-80.jpg",
-      "name": "colorgradelut256x16-80"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "colorgradelut256x16-90",
     "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-90.jpg",
-    "width": 256,
-    "height": 16,
-    "alpha_test_value": -1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-90.jpg",
-      "name": "colorgradelut256x16-90"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "colorgradelut256x16-100",
     "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-100.jpg",
-    "width": 256,
-    "height": 16,
-    "alpha_test_value": -1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\LUTs\\colorgradelut256x16-100.jpg",
-      "name": "colorgradelut256x16-100"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "ball_MRBallDark",
     "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Balls\\ball_MRBallDark.hdr",
-    "width": 116,
-    "height": 116,
-    "alpha_test_value": -1.0,
     "is_opaque": true,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\Balls\\ball_MRBallDark.hdr",
-      "name": "ball_MRBallDark"
-    },
-    "bits": false
+    "is_signed": false
   },
   {
     "name": "VPW-ROM-ExampleTable",
     "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\VPW-ROM-ExampleTable.png",
-    "width": 1061,
-    "height": 304,
-    "alpha_test_value": -1.0,
-    "is_opaque": null,
-    "is_signed": false,
-    "jpeg": {
-      "path": "C:\\Users\\dan\\OneDrive\\Documents\\Dan\\Pinball\\_Table Dev\\Example Table\\VPW-ROM-ExampleTable.png",
-      "name": "VPW-ROM-ExampleTable"
-    },
-    "bits": false
+    "is_signed": false
   }
 ]
