@@ -104,7 +104,9 @@
 '0.014 RobbyKingPin - Added new improved primitives for the Flupper Domes
 '0.015 apophis - Updated rule page image. 
 '0.016 apophis - Disabled "hide parts behind" for ball and flipper shadow primitives.
-'0.016 apophis - Added correction to aBall.velz in dampener code
+'0.017 apophis - Added correction to aBall.velz in dampener code
+'0.018 apophis - Added examples of correctly sized flippers to the Main layer. Updated DisableStaticPreRendering functionality to be consistent with VPX 10.8.1 API
+
 
 Option Explicit
 Randomize
@@ -300,9 +302,9 @@ Dim StagedFlippers : StagedFlippers = 0         ' Staged Flippers. 0 = Disabled,
 ' - 3: player closed the tweak UI, good time to update staticly prerendered parts
 ' Table1.Option arguments are: 
 ' - option name, minimum value, maximum value, step between valid values, default value, unit (0=None, 1=Percent), an optional arry of literal strings
+Dim dspTriggered : dspTriggered = False
 Sub Table1_OptionEvent(ByVal eventId)
-    If eventId = 1 Then DisableStaticPreRendering = True
-
+    If eventId = 1 And Not dspTriggered Then dspTriggered = True : DisableStaticPreRendering = True : End If
 
 	' Color Saturation
     ColorLUT = Table1.Option("Color Saturation", 1, 11, 1, 1, 0, _
@@ -333,7 +335,7 @@ Sub Table1_OptionEvent(ByVal eventId)
     ' Staged Flippers
     StagedFlippers = Table1.Option("Staged Flippers", 0, 1, 1, 0, 0, Array("Disabled", "Enabled"))
 
-    If eventId = 3 Then DisableStaticPreRendering = False
+    If eventId = 3 And dspTriggered Then dspTriggered = False : DisableStaticPreRendering = False : End If
 End Sub
 
 

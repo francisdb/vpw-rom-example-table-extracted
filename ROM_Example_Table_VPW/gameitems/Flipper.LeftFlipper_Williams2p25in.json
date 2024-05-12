@@ -1,0 +1,42 @@
+{
+  "Flipper": {
+    "center": {
+      "x": -227.07751,
+      "y": 1239.5627
+    },
+    "base_radius": 20.9,
+    "end_radius": 13.2,
+    "flipper_radius_max": 90.6,
+    "return_": 0.07,
+    "start_angle": 121.0,
+    "end_angle": 69.0,
+    "override_physics": 0,
+    "mass": 1.0,
+    "is_timer_enabled": false,
+    "timer_interval": 100,
+    "surface": "",
+    "material": "Plastic White",
+    "name": "LeftFlipper_Williams2p25in",
+    "rubber_material": "",
+    "rubber_thickness_int": 6,
+    "rubber_thickness": 6.0,
+    "rubber_height_int": 15,
+    "rubber_height": 15.0,
+    "rubber_width_int": 21,
+    "rubber_width": 21.2,
+    "strength": 2300.0,
+    "elasticity": 0.88,
+    "elasticity_falloff": 0.15,
+    "friction": 0.9,
+    "ramp_up": 2.5,
+    "scatter": 0.0,
+    "torque_damping": 0.375,
+    "torque_damping_angle": 6.0,
+    "flipper_radius_min": 0.0,
+    "is_visible": false,
+    "is_enabled": true,
+    "height": 50.0,
+    "image": "",
+    "is_reflection_enabled": false
+  }
+}

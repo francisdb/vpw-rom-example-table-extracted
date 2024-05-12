@@ -396,21 +396,21 @@
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Trigger.TriggerLF.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Light.Flasherlight2.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Light.l38.json",
@@ -1306,392 +1306,392 @@
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post001.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post002.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post003.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post004.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post005.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post006.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post007.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post008.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post009.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post010.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post011.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post012.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post013.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post014.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post015.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post016.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post017.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post018.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post019.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post020.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post023.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post024.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post025.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post026.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post027.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post028.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post029.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post030.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post031.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post032.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post033.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post034.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post035.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post036.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post037.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post038.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post039.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post040.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.Wall005.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.Wall006.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.Wall007.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.Wall008.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.Wall009.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.Wall010.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.Wall011.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.Wall012.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.Wall014.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_LeftSling.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post043.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post044.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post045.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_RightSling.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.zCol_Rubber_Post047.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.Wall015.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.Wall016.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.Apron2.json",
@@ -1810,42 +1810,42 @@
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.EndPoint1LS.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.EndPoint1RS.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.EndPoint2RS.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.EndPoint1TS.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.EndPoint2TS.json",
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.Wall017.json",
@@ -1866,119 +1866,119 @@
     "is_locked": true,
     "editor_layer": 1,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "HitTarget.sw18.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "HitTarget.sw17.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "HitTarget.sw19.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "HitTarget.sw20.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.sw57.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.sw57a.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.sw35.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.sw35a.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.sw36.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.sw36a.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.sw59.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.sw59a.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.sw34.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.sw34a.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.sw33.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.sw33a.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.sw57p.json",
@@ -2279,14 +2279,14 @@
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Wall.Wall021.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Physics",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Light.l141a.json",
@@ -3315,119 +3315,119 @@
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Flasher.Flasherflash1.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Flasher.Flasherflash2.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Light.Flasherlight3.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Flasher.Flasherflash3.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Light.Flasherlight4.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Flasher.Flasherflash4.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.Flasherbase1.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.Flasherlit1.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.Flasherbase2.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.Flasherlit2.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.Flasherlit3.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.Flasherbase3.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.Flasherbase4.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.Flasherlit4.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.Primitive013.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.Primitive014.json",
     "is_locked": true,
     "editor_layer": 6,
     "editor_layer_name": "Flashers-Flupper",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Flasher.Flasherbloom1.json",
@@ -3672,70 +3672,70 @@
     "is_locked": true,
     "editor_layer": 4,
     "editor_layer_name": "Shadows",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.FlipperRSh.json",
     "is_locked": true,
     "editor_layer": 4,
     "editor_layer_name": "Shadows",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.BallShadow0.json",
     "is_locked": true,
     "editor_layer": 4,
     "editor_layer_name": "Shadows",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.BallShadow1.json",
     "is_locked": true,
     "editor_layer": 4,
     "editor_layer_name": "Shadows",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.BallShadow2.json",
     "is_locked": true,
     "editor_layer": 4,
     "editor_layer_name": "Shadows",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.BallShadow3.json",
     "is_locked": true,
     "editor_layer": 4,
     "editor_layer_name": "Shadows",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.BallShadow4.json",
     "is_locked": true,
     "editor_layer": 4,
     "editor_layer_name": "Shadows",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.BallShadow5.json",
     "is_locked": true,
     "editor_layer": 4,
     "editor_layer_name": "Shadows",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.BallShadow6.json",
     "is_locked": true,
     "editor_layer": 4,
     "editor_layer_name": "Shadows",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Primitive.BallShadow7.json",
     "is_locked": true,
     "editor_layer": 4,
     "editor_layer_name": "Shadows",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Rubber.LSling.json",
@@ -3798,13 +3798,55 @@
     "is_locked": true,
     "editor_layer": 4,
     "editor_layer_name": "Sling Animations",
-    "editor_layer_visibility": true
+    "editor_layer_visibility": false
   },
   {
     "file_name": "Trigger.TriggerLF1.json",
     "is_locked": true,
     "editor_layer": 0,
     "editor_layer_name": "Sling Animations",
+    "editor_layer_visibility": false
+  },
+  {
+    "file_name": "Flipper.LeftFlipper_Generic3in.json",
+    "is_locked": true,
+    "editor_layer": 0,
+    "editor_layer_name": "Main Layer",
+    "editor_layer_visibility": true
+  },
+  {
+    "file_name": "Flipper.LeftFlipper_Williams3in.json",
+    "is_locked": true,
+    "editor_layer": 0,
+    "editor_layer_name": "Main Layer",
+    "editor_layer_visibility": true
+  },
+  {
+    "file_name": "Flipper.LeftFlipper_WilliamsRidges.json",
+    "is_locked": true,
+    "editor_layer": 0,
+    "editor_layer_name": "Main Layer",
+    "editor_layer_visibility": true
+  },
+  {
+    "file_name": "Flipper.LeftFlipper_WilliamsLightning.json",
+    "is_locked": true,
+    "editor_layer": 0,
+    "editor_layer_name": "Main Layer",
+    "editor_layer_visibility": true
+  },
+  {
+    "file_name": "Flipper.LeftFlipper_Williams2p25in.json",
+    "is_locked": true,
+    "editor_layer": 0,
+    "editor_layer_name": "Main Layer",
+    "editor_layer_visibility": true
+  },
+  {
+    "file_name": "Flipper.LeftFlipper_Williams2p25in001.json",
+    "is_locked": true,
+    "editor_layer": 0,
+    "editor_layer_name": "Main Layer",
     "editor_layer_visibility": true
   }
 ]
