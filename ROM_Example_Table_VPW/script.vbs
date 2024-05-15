@@ -106,6 +106,7 @@
 '0.016 apophis - Disabled "hide parts behind" for ball and flipper shadow primitives.
 '0.017 apophis - Added correction to aBall.velz in dampener code
 '0.018 apophis - Added examples of correctly sized flippers to the Main layer. Updated DisableStaticPreRendering functionality to be consistent with VPX 10.8.1 API
+'1.6 Release
 
 
 Option Explicit
